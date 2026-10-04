@@ -37,5 +37,8 @@ This project is for my Front-End course. I built a web page that adjusts automat
 
 ## Screenshots
 * Mobile view
+![Mobile version](screenshots/mobile.png)
 * Tablet view
+![Tablet version](screenshots/tablet.png)
 * Desktop view
+![Desktop version](screenshots/desktop.png)
